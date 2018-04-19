@@ -1,0 +1,11 @@
+# JsonFileReference
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**name** | **str** | The display name of the file of this attachment | 
+**file_stream** | [**JsonInputStream**](JsonInputStream.md) | The file content | 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
